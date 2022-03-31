@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://gorrig.github.io/blog/'
 languageCode = 'en-us'
 title = 'My New Site'
 theme = "shell"
